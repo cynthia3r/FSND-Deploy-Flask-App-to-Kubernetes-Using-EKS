@@ -28,5 +28,3 @@ htmlcov/
 .envrc
 .direnv
 
-# env variables file used in development mode
-.env_file
